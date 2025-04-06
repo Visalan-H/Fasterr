@@ -1,0 +1,16 @@
+{
+    "name": "Fasterr",
+    "version": "1.0.0",
+    "description": "An extension to increase youtube video speed beyond 2x",
+    "manifest_version": 3,
+    "author": "Vizz",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Fasterr"  
+    },
+    "permissions": [
+        "scripting",
+        "activeTab",
+        "storage"
+    ]
+}
