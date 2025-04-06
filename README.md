@@ -1,6 +1,6 @@
 # ⚡️ Fasterr
 
-**Fasterr** is a lightweight Chrome extension that lets you tweak YouTube playback speed beyond the default limits — go **over 2x** or **under 0.25x** with full control.
+**Fasterr** is a Chrome extension that lets you tweak YouTube playback speed beyond the default limits — go **over 2x** or **under 0.25x** with full control.
 
 ## 🚀 Features
 
@@ -34,6 +34,6 @@
 
 ## ✨ Author
 
-Built by [Vizz](https://github.com/yourusername)
+Built by [Vizz](https://github.com/Visalan-H)
 
 ---
