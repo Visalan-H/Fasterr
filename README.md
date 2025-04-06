@@ -8,6 +8,9 @@
 - Manual input + interactive slider
 - Remembers your last used speed
 
+## ⬇️ DOWNLOAD ZIP HERE 
+[Click here!](https://github.com/Visalan-H/Fasterr/archive/refs/heads/main.zip)
+
 ## 🧩 Installation
 
 1. Download zip and extract or clone this repo.
