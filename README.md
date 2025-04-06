@@ -13,7 +13,7 @@
 
 ## 🧩 Installation
 
-1. Download zip and extract or clone this repo.
+1. Download zip and extract the folder or clone this repo using git clone.
 2. Go to `chrome://extensions/`
 3. Enable **Developer Mode** (top right).
 4. Click **"Load unpacked"**
